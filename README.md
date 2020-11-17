@@ -8,6 +8,6 @@ The goal of this project was to build a mobile-responsive, social media web appl
 
 * This repository is not used for development. It is simply a way to display the project's source code.
 
-#### Languages
+#### Technologies
 * PHP
 * Laravel
